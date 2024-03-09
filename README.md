@@ -17,4 +17,4 @@ To write a python program to perform stop and wait protocol
 ![Screenshot 2024-03-09 111621](https://github.com/Harevasu/2a_Stop_and_Wait_Protocol/assets/147985044/3567c53a-311c-4bca-a5f1-a0312d0da6fa)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed.
+Thus, python program to perform stop and wait protocol was successfully executed
