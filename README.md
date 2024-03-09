@@ -36,8 +36,9 @@ while True:
     s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
-![Screenshot 2024-03-09 111526](https://github.com/Harevasu/2a_Stop_and_Wait_Protocol/assets/147985044/a60cb014-74de-4bdf-a23b-f6ed2c91f806)
-![Screenshot 2024-03-09 111621](https://github.com/Harevasu/2a_Stop_and_Wait_Protocol/assets/147985044/3567c53a-311c-4bca-a5f1-a0312d0da6fa)
+![Screenshot 2024-03-09 112629](https://github.com/Harevasu/2a_Stop_and_Wait_Protocol/assets/147985044/e3b45dc8-90cb-443e-8d02-e43f03327908)
+![Screenshot 2024-03-09 112759](https://github.com/Harevasu/2a_Stop_and_Wait_Protocol/assets/147985044/046b57f1-6fc1-473b-acae-40f58f6b31d4)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
